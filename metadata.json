@@ -1,0 +1,6 @@
+{
+  "name": "GridPulse - 오늘의 전기 시세",
+  "description": "전력시장(SMP) 흐름을 입문자도 한눈에 쉽게 이해하는 일일 전력 가격 현황 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
